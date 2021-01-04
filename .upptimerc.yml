@@ -4,19 +4,9 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
+  - name: XLX970
     url: https://xlx970.onogoro.net/
-  - name: xlx970
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
