@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: XLX970
     url: https://xlx970.onogoro.net/
+  - name: XLX944
+    url: http://xrf944.xreflector-jp.org/
 
 
 status-website:
