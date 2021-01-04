@@ -7,8 +7,8 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
+    url: https://xlx970.onogoro.net/
+  - name: xlx970
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
