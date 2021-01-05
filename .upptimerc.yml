@@ -5,7 +5,7 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
    - name: XLX016
-       url: xrf016.xreflector-jp.org
+      url: xrf016.xreflector-jp.org
    - name: XLX052
        url: xrf052.xreflector-jp.org
    - name: XLX058
