@@ -59,7 +59,7 @@ sites:
    - name: XLX459
      url: http://xrf459.xreflector-jp.org
    - name: XLX464
-     url: http://ref.ah-huh.net/xlx
+     url: http://ah-huh.net/xlx/
    - name: XLX499
      url: http://xrf499.xreflector-jp.org
    - name: XLX510
