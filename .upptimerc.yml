@@ -112,6 +112,8 @@ sites:
      url: http://xrf781.xreflector-jp.org
    - name: XLX791
      url: http://xrf791.xreflector-jp.org
+   - name: XLX794
+     url: http://xrf794.xreflector-jp.org
    - name: XLX807
      url: http://xrf807.owari.biz
    - name: XLX812
