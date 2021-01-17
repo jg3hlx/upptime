@@ -110,8 +110,6 @@ sites:
      url: http://776.bayfm78.tokyo
    - name: XLX781
      url: http://xrf781.xreflector-jp.org
-   - name: XLX791
-     url: http://xrf791.xreflector-jp.org
    - name: XLX794
      url: http://xrf794.xreflector-jp.org
    - name: XLX807
