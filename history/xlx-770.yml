@@ -1,7 +1,7 @@
 url: http://xrf770.mydns.jp
-status: up
-code: 200
-responseTime: 512
-lastUpdated: 2021-02-09T17:13:37.465Z
+status: down
+code: 500
+responseTime: 500
+lastUpdated: 2021-02-09T20:46:59.951Z
 startTime: Tue Jan 05 2021 08:15:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
