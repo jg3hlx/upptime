@@ -1006,19 +1006,19 @@
     "url": "http://776.bayfm78.tokyo",
     "icon": "https://favicons.githubusercontent.com/776.bayfm78.tokyo",
     "slug": "xlx-776",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 746,
-    "timeWeek": 905,
-    "timeMonth": 959,
-    "timeYear": 976,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 969,
+    "timeDay": 699,
+    "timeWeek": 873,
+    "timeMonth": 950,
+    "timeYear": 969,
     "dailyMinutesDown": {
-      "2021-02-15": 1
+      "2021-02-15": 8
     }
   },
   {
