@@ -130,8 +130,6 @@ sites:
      url: http://xrf959.xreflector-jp.org
    - name: XLX970
      url: http://xlx970.onogoro.net
-   - name: XLX992
-     url: http://xrf992.xreflector-jp.org
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
  ## cname: demo.upptime.js.org
