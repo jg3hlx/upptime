@@ -951,10 +951,10 @@
     "url": "http://xlx738.jq2sai.net",
     "icon": "https://favicons.githubusercontent.com/xlx738.jq2sai.net",
     "slug": "xlx-738",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1442,
@@ -962,7 +962,9 @@
     "timeWeek": 1683,
     "timeMonth": 1748,
     "timeYear": 1442,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-16": 1
+    }
   },
   {
     "name": "XLX753",
