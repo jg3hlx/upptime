@@ -26,8 +26,8 @@ sites:
      url: http://xrf111.xreflector-jp.org
    - name: XLX124
      url: http://xrf124.xreflector-jp.org
-   - name: XLX129
-     url: http://jm1ydn.cir-ins.com
+#   - name: XLX129
+#     url: http://jm1ydn.cir-ins.com
    - name: XLX176
      url: http://xrf176.xreflector-jp.org
    - name: XLX220
