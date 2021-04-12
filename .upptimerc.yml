@@ -104,8 +104,8 @@ sites:
      url: http://xlx738.jq2sai.net
    - name: XLX753
      url: http://xrf753.xreflector-jp.org
-   - name: XLX770
-     url: http://xrf770.mydns.jp
+#   - name: XLX770
+#     url: http://xrf770.mydns.jp
    - name: XLX776
      url: http://776.bayfm78.tokyo
    - name: XLX781
