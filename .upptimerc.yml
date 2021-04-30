@@ -51,8 +51,6 @@ sites:
      url: http://xrf431.xreflector-jp.org
    - name: XLX435
      url: http://xrf435.xreflector-jp.org
-   - name: XLX440
-     url: http://xrf440.e-kyushu.net
    - name: XLX441
      url: http://xrf441.xreflector-jp.org
    - name: XLX459
