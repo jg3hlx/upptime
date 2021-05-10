@@ -484,17 +484,17 @@
     "url": "http://ah-huh.net/xlx/",
     "icon": "https://favicons.githubusercontent.com/ah-huh.net",
     "slug": "xlx-464",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1116,
-    "timeDay": 2594,
-    "timeWeek": 1389,
-    "timeMonth": 1316,
-    "timeYear": 1116,
+    "time": 1110,
+    "timeDay": 1435,
+    "timeWeek": 1250,
+    "timeMonth": 1286,
+    "timeYear": 1110,
     "dailyMinutesDown": {
       "2021-01-05": 185
     }
