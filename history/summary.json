@@ -776,17 +776,17 @@
     "url": "http://xrf704.xreflector-jp.org",
     "icon": "https://favicons.githubusercontent.com/xrf704.xreflector-jp.org",
     "slug": "xlx-704",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 881,
-    "timeDay": 815,
-    "timeWeek": 613,
-    "timeMonth": 751,
-    "timeYear": 881,
+    "time": 878,
+    "timeDay": 625,
+    "timeWeek": 590,
+    "timeMonth": 742,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2021-01-17": 48
     }
