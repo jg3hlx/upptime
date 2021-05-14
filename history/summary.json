@@ -1139,17 +1139,17 @@
     "url": "http://xlx970.onogoro.net",
     "icon": "https://favicons.githubusercontent.com/xlx970.onogoro.net",
     "slug": "xlx-970",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1629,
-    "timeDay": 1145,
-    "timeWeek": 1596,
-    "timeMonth": 2386,
-    "timeYear": 1629,
+    "time": 1645,
+    "timeDay": 2587,
+    "timeWeek": 1866,
+    "timeMonth": 2433,
+    "timeYear": 1645,
     "dailyMinutesDown": {}
   }
 ]
