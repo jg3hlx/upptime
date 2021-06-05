@@ -91,8 +91,6 @@ sites:
      url: http://xrf705.xreflector-jp.org
    - name: XLX708
      url: http://xrf708.xreflector-jp.org
-   - name: XLX712
-     url: http://xrf712.mydns.jp
    - name: XLX713
      url: http://xrf713.xreflector-jp.org
    - name: XLX741
