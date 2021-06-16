@@ -816,17 +816,17 @@
     "url": "http://xrf708.xreflector-jp.org",
     "icon": "https://favicons.githubusercontent.com/xrf708.xreflector-jp.org",
     "slug": "xlx-708",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 866,
-    "timeDay": 1821,
-    "timeWeek": 1086,
-    "timeMonth": 936,
-    "timeYear": 866,
+    "time": 872,
+    "timeDay": 1845,
+    "timeWeek": 1184,
+    "timeMonth": 965,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2021-01-17": 47
     }
