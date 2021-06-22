@@ -348,7 +348,7 @@
     "url": "http://xrf373.mydns.jp",
     "icon": "https://favicons.githubusercontent.com/xrf373.mydns.jp",
     "slug": "xlx-373",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1130,7 +1130,7 @@
     "time": 1614,
     "timeDay": 1298,
     "timeWeek": 1694,
-    "timeMonth": 1578,
+    "timeMonth": 1551,
     "timeYear": 1614,
     "dailyMinutesDown": {}
   }
