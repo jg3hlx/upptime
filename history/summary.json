@@ -174,17 +174,17 @@
     "url": "http://xrf111.xreflector-jp.org",
     "icon": "https://favicons.githubusercontent.com/xrf111.xreflector-jp.org",
     "slug": "xlx-111",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1090,
-    "timeDay": 1802,
-    "timeWeek": 1535,
-    "timeMonth": 1554,
-    "timeYear": 1090,
+    "time": 1086,
+    "timeDay": 1096,
+    "timeWeek": 1392,
+    "timeMonth": 1517,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2021-01-17": 57
     }
