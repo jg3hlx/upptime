@@ -578,17 +578,17 @@
     "url": "http://xrf538.mydns.jp",
     "icon": "https://favicons.githubusercontent.com/xrf538.mydns.jp",
     "slug": "xlx-538",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 977,
-    "timeDay": 996,
-    "timeWeek": 717,
-    "timeMonth": 939,
-    "timeYear": 977,
+    "time": 987,
+    "timeDay": 2104,
+    "timeWeek": 1029,
+    "timeMonth": 1010,
+    "timeYear": 987,
     "dailyMinutesDown": {
       "2021-01-23": 31
     }
