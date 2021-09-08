@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 1271,
     "timeDay": 2231,
-    "timeWeek": 1616,
+    "timeWeek": 1720,
     "timeMonth": 1649,
     "timeYear": 1271,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.98%",
     "time": 1008,
     "timeDay": 791,
-    "timeWeek": 920,
+    "timeWeek": 917,
     "timeMonth": 877,
     "timeYear": 1008,
     "dailyMinutesDown": {
@@ -484,7 +484,7 @@
     "url": "http://ah-huh.net/xlx/",
     "icon": "https://favicons.githubusercontent.com/ah-huh.net",
     "slug": "xlx-464",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
