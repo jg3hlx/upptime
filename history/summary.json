@@ -258,7 +258,7 @@
     "uptimeYear": "100.00%",
     "time": 745,
     "timeDay": 477,
-    "timeWeek": 600,
+    "timeWeek": 636,
     "timeMonth": 689,
     "timeYear": 745,
     "dailyMinutesDown": {}
@@ -1029,7 +1029,7 @@
     "url": "http://xrf883.mydns.jp",
     "icon": "https://favicons.githubusercontent.com/xrf883.mydns.jp",
     "slug": "xlx-883",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
